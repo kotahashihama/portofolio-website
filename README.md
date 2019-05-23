@@ -1,7 +1,7 @@
 # ポートフォリオサイト
-ポートフォリオサイトです。Vue.jsでSPA化しました。
+Vue.jsでSPA化しました。
 
-## デモ
+## URL
 https://kotahashihama.com/
 
 ## 機能一覧
