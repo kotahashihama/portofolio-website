@@ -1,5 +1,5 @@
 # ポートフォリオサイト
-Vue.jsでSPA化しました。
+Vue.jsでSPA化したポートフォリオサイトです。
 
 ## URL
 https://kotahashihama.com/
@@ -10,3 +10,7 @@ https://kotahashihama.com/
 ## 使用技術
 - 言語・・・JavaScript
 - フレームワーク・・・Vue.js、Bootstrap
+
+## バージョン
+- Vue.js 2.6.10
+- Bootstrap 4.3.1
