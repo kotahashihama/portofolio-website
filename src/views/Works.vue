@@ -42,7 +42,7 @@
         <div class="col-sm-12 col-md-6 col-lg-4 mb-5 mb-lg-0">
           <div class="card shadow-sm mb-0">
             <a href="https://kotahashihama.github.io/fx-calculator/" target="_blank">
-              <img class="card-img-top" src="../assets/fx-calculator.png" alt="ポジション計算機">
+              <img class="card-img-top" src="../assets/fx-calculator.jpg" alt="ポジション計算機">
             </a>
             <div class="card-body">
               <h4 class="card-title">ポジション計算機</h4>
