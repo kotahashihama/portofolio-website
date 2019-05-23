@@ -1,29 +1,12 @@
-# portofolio-website
+# ポートフォリオサイト
+ポートフォリオサイトです。Vue.jsでSPA化しました。
 
-## Project setup
-```
-npm install
-```
+## デモ
+https://kotahashihama.com/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 機能一覧
+- シームレス遷移
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 使用技術
+- 言語・・・JavaScript
+- フレームワーク・・・Vue.js、Bootstrap
