@@ -41,7 +41,7 @@
 
         <div class="col-sm-12 col-md-6 col-lg-4 mb-5 mb-lg-0">
           <div class="card shadow-sm mb-0">
-            <a href="https://kotahashihama.github.io/fx-calculator/" target="_blank">
+            <a href="https://fx-calculator.netlify.com/" target="_blank">
               <img class="card-img-top" src="../assets/fx-calculator.jpg" alt="ポジション計算機">
             </a>
             <div class="card-body">
@@ -52,7 +52,7 @@
               </h6>
               <p class="card-text">FXの含み損益・証拠金等を俯瞰できる計算アプリです。</p>
               <a
-                href="https://kotahashihama.github.io/fx-calculator/"
+                href="https://fx-calculator.netlify.com/"
                 target="_blank"
                 class="btn btn-primary mr-1 mb-1"
               >
