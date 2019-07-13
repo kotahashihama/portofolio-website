@@ -11,25 +11,34 @@
       <div class="card-deck">
         <div class="col-sm-12 col-md-6 col-lg-4 col-sm-12 mb-5 mb-lg-0">
           <div class="card shadow-sm mb-0">
-            <a href="https://kokonokore.herokuapp.com/" target="_blank">
-              <img class="card-img-top" src="../assets/kokonokore.jpg" alt="ココノコレ">
+            <a
+              href="https://fx-calculator-advanced.netlify.com/"
+              target="_blank"
+            >
+              <img
+                class="card-img-top"
+                src="../assets/fx-calculator-advanced.jpg"
+                alt="ポジション計算機"
+              />
             </a>
             <div class="card-body">
-              <h4 class="card-title">ココノコレ</h4>
+              <h4 class="card-title">ポジション計算機</h4>
               <h6 class="card-subtitle text-muted mb-2">
                 Webアプリケーション
-                <span class="badge badge-pill badge-info">Rails</span>
+                <span class="badge badge-pill badge-info">Nuxt</span>
               </h6>
-              <p class="card-text">飲食店のおすすめグルメを共有できるWebサービスです。</p>
+              <p class="card-text">
+                FXの含み損益・証拠金維持率等をシュミレートできる計算アプリです。
+              </p>
               <a
-                href="https://kokonokore.herokuapp.com/"
+                href="https://fx-calculator-advanced.netlify.com/"
                 target="_blank"
                 class="btn btn-primary mr-1 mb-1"
               >
                 <i class="far fa-eye"></i> デモ
               </a>
               <a
-                href="https://github.com/kotahashihama/kokonokore"
+                href="https://github.com/kotahashihama/fx-calculator-advanced"
                 target="_blank"
                 class="btn btn-secondary mb-1"
               >
@@ -41,25 +50,31 @@
 
         <div class="col-sm-12 col-md-6 col-lg-4 mb-5 mb-lg-0">
           <div class="card shadow-sm mb-0">
-            <a href="https://fx-calculator.netlify.com/" target="_blank">
-              <img class="card-img-top" src="../assets/fx-calculator.jpg" alt="ポジション計算機">
+            <a href="https://kokonokore.herokuapp.com/" target="_blank">
+              <img
+                class="card-img-top"
+                src="../assets/kokonokore.jpg"
+                alt="ココノコレ"
+              />
             </a>
             <div class="card-body">
-              <h4 class="card-title">ポジション計算機</h4>
+              <h4 class="card-title">ココノコレ</h4>
               <h6 class="card-subtitle text-muted mb-2">
                 Webアプリケーション
-                <span class="badge badge-pill badge-info">Vue</span>
+                <span class="badge badge-pill badge-info">Rails</span>
               </h6>
-              <p class="card-text">FXの含み損益・証拠金等を俯瞰できる計算アプリです。</p>
+              <p class="card-text">
+                飲食店のおすすめグルメを共有できるWebサービスです。
+              </p>
               <a
-                href="https://fx-calculator.netlify.com/"
+                href="https://kokonokore.herokuapp.com/"
                 target="_blank"
                 class="btn btn-primary mr-1 mb-1"
               >
                 <i class="far fa-eye"></i> デモ
               </a>
               <a
-                href="https://github.com/kotahashihama/fx-calculator"
+                href="https://github.com/kotahashihama/kokonokore"
                 target="_blank"
                 class="btn btn-secondary mb-1"
               >

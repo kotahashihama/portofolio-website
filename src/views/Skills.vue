@@ -71,6 +71,7 @@
                 <li>
                   フロントエンド開発
                   <ul class="list-inline">
+                    <li class="list-inline-item">Nuxt.js</li>
                     <li class="list-inline-item">Vue.js</li>
                     <li class="list-inline-item">Bootstrap</li>
                   </ul>

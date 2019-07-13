@@ -74,28 +74,6 @@
             <li class="nav-item">
               <a
                 class="nav-link p-2"
-                href="https://www.facebook.com/kotahashihama"
-                target="_blank"
-                rel="noopener"
-                aria-label="Facebook"
-              >
-                <i class="fab fa-facebook"></i>
-              </a>
-            </li>
-            <li class="nav-item">
-              <a
-                class="nav-link p-2"
-                href="https://www.instagram.com/kotahashihama/"
-                target="_blank"
-                rel="noopener"
-                aria-label="Instagram"
-              >
-                <i class="fab fa-instagram"></i>
-              </a>
-            </li>
-            <li class="nav-item">
-              <a
-                class="nav-link p-2"
                 href="https://www.linkedin.com/in/kotahashihama/"
                 target="_blank"
                 rel="noopener"
