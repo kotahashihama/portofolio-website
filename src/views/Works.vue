@@ -28,7 +28,7 @@
                 <span class="badge badge-pill badge-info">Nuxt</span>
               </h6>
               <p class="card-text">
-                FXの含み損益・証拠金維持率等をシュミレートできる計算アプリです。
+                FXの含み損益・証拠金維持率等をシュミレートできるNuxt.js製の計算アプリです。こちらの成果物を軸に転職活動しています。GitHubに詳しいアピールポイント等記載してます。
               </p>
               <a
                 href="https://fx-calculator-advanced.netlify.com/"
@@ -64,7 +64,8 @@
                 <span class="badge badge-pill badge-info">Rails</span>
               </h6>
               <p class="card-text">
-                飲食店のおすすめグルメを共有できるWebサービスです。
+                飲食店のおすすめグルメを共有できるRuby on
+                Rails製のWebサービスです。Ruby on Rails学習時に作りました。
               </p>
               <a
                 href="https://kokonokore.herokuapp.com/"

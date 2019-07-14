@@ -6,8 +6,11 @@
           <i class="far fa-id-card"></i> About Me
         </h2>
         <p class="lead mb-0">
-          <span class="font-weight-bold">橋濱幸太</span>と申します。<br />
-          8/19〜30で東京に滞在します！
+          橋濱幸太と申します。<br />
+          <span class="font-weight-bold">8/19〜30で東京に滞在します！</span
+          ><br />
+          上京就職のため、面談や選考等の日程をご配慮いただければたいへん嬉しく存じます。<br />
+          もちろん、appear.in等でオンライン通話可能です。
         </p>
       </div>
 
@@ -30,6 +33,10 @@
               href="https://twitter.com/kotahashihama"
               target="_blank"
               >Twitter</a
+            >や<a
+              href="https://twitter.com/i/moments/1106703808170614784"
+              target="_blank"
+              >#100DaysOfCode</a
             >等でアウトプットしています。
             <br />よろしければフォローをお願いします。
           </p>
@@ -65,6 +72,13 @@
             Sassを社内で誰よりも早く実務へ取り入れたり、フロントエンド関係の勉強会へ積極的に参加するなど、
             <span class="font-weight-bold">最新技術への興味は人一倍です</span>。
             <br />エンジニアとしてもきっとすぐに順応し、お役に立てるのではと思います。
+          </p>
+
+          <p>
+            元Webデザイナーのエンジニアとして私が提供できる強みは、コーディング経験はもとより<span
+              class="font-weight-bold"
+              >UI・UXやデザイナーへの理解</span
+            >です。
           </p>
         </div>
         <div class="col-md-5 order-0 order-md-12 mb-4">
